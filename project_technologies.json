@@ -7,8 +7,7 @@
             "osx"
         ],
         "toolkits": [
-            "openframeworks";
-            "opencv"
+            "openframeworks"
         ]
     },
     "themes": [

@@ -1,8 +1,8 @@
 # In lak'ech
-Insert the name of your project
+I am another yourself
 
 ## Authors
-- Alex Leiva, https://github.com/aviel08
+- Alex Leiva / https://github.com/aviel08
 
 
 ## Description

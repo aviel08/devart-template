@@ -10,7 +10,8 @@
             "osx"
         ],
         "toolkits": [
-            "openframeworks", "opencv"
+            "openframeworks", 
+            "opencv"
         ]
     },
     "themes": [

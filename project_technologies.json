@@ -7,7 +7,7 @@
             "osx"
         ],
         "toolkits": [
-            "openframeworks"
+            "openframeworks";
             "opencv"
         ]
     },

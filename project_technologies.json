@@ -1,5 +1,7 @@
 {
     "technologies": {
+        "languages": [
+            "c++"
         "apis": [
             "insert apis"
         ],
@@ -11,10 +13,9 @@
         ]
     },
     "themes": [
-        "insert themes"
-    ]
-    },
-    "languages": [
-        "c++"
+        "body",
+        "tracking",
+        "face",
+        "multiuser"
     ]
 }

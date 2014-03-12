@@ -1,5 +1,5 @@
 # In lak'ech
-I am another yourself
+I am another you
 
 ## Authors
 - Alex Leiva / https://github.com/aviel08

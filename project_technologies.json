@@ -4,10 +4,11 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "osx"
         ],
         "toolkits": [
             "openframeworks"
+            "opencv"
         ]
     },
     "themes": [

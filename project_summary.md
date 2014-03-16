@@ -17,7 +17,6 @@ The mysterious monolith that appears on 2001: A Space Odyssey is a clear referen
 
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
 void testApp::loadFace(string face){
 src.loadImage(face);

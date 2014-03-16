@@ -30,9 +30,7 @@ srcPoints = srcTracker.getImagePoints();
 ## Libraries
 
 -FaceTracker  [Example Link]( https://github.com/kylemcdonald/FaceTracker "Github")
-
 -ofxFaceTracker [Example Link]( https://github.com/kylemcdonald/ofxFaceTracker "Github")
-
 -FaceSubstitution [Example Link]( https://github.com/arturoc/FaceSubstitution "Github")
 
 

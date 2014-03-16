@@ -24,14 +24,14 @@ src.loadImage(face);
 if(src.getWidth() > 0) {
 srcTracker.update(toCv(src));
 srcPoints = srcTracker.getImagePoints();
-}
-}
 ```
 ## Libraries
 
--FaceTracker  [Example Link]( https://github.com/kylemcdonald/FaceTracker "Github")
--ofxFaceTracker [Example Link]( https://github.com/kylemcdonald/ofxFaceTracker "Github")
--FaceSubstitution [Example Link]( https://github.com/arturoc/FaceSubstitution "Github")
+FaceTracker  [Example Link]( https://github.com/kylemcdonald/FaceTracker "Github")
+
+ofxFaceTracker [Example Link]( https://github.com/kylemcdonald/ofxFaceTracker "Github")
+
+FaceSubstitution [Example Link]( https://github.com/arturoc/FaceSubstitution "Github")
 
 
 ## Images & Videos

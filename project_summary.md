@@ -31,10 +31,3 @@ FaceTracker  [Example Link]( https://github.com/kylemcdonald/FaceTracker "Github
 ofxFaceTracker [Example Link]( https://github.com/kylemcdonald/ofxFaceTracker "Github")
 
 FaceSubstitution [Example Link]( https://github.com/arturoc/FaceSubstitution "Github")
-
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-

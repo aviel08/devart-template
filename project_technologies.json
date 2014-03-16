@@ -1,8 +1,8 @@
 {
     "technologies": {
         "languages": [
-            "c"
-            ],
+            "c++"
+        ],
         "apis": [
             "insert apis"
         ],

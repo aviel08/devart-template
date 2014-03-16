@@ -1,6 +1,9 @@
 {
     "technologies": {
         "languages": [
+            "javascript",
+            "html",
+            "opengl",
             "c++"
         ],
         "apis": [

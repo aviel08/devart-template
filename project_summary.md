@@ -26,6 +26,7 @@ function test() {
 ## Libraries
 
 -FaceTracker  [Example Link]( https://github.com/kylemcdonald/FaceTracker "Example Link")
+
 -ofxFaceTracker [Example Link]( https://github.com/kylemcdonald/ofxFaceTracker "Example Link")
 
 

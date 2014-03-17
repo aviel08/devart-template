@@ -2,4 +2,4 @@ The project will consist on a monolith place on the middle of the designated spa
 
 Two webcams and two screens connected to a Mac mini are inside powering the installation.
 
-![Initial concept sketch](../project_images/concept_06.jpg?raw=true "Initial sketch")
+![Initial concept sketch](../project_images/concept_01.jpg?raw=true "Initial sketch")

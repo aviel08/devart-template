@@ -1,5 +1,8 @@
-The project will consist on a monolith place on the middle of the designated space, and the interactions will occur in pairs of users. When a user approach the system will be prompted for the second one.
+The imagined interaction scenario consists on 3 steps:
+-The user approach the monolith
+-A second user is prompted
+-Face swapping beggins.
 
-Two webcams and two screens connected to a Mac mini are inside powering the installation.
+It is important to empathize that the face swapping effect must be really slow. Making a saddle transition will help both users to embrace their new face as theirs, since it will pass unnoticed for a while, and reinforce the artistic concept.
 
 ![Initial concept sketch](../project_images/concept_06.jpg?raw=true "Initial sketch")

@@ -1,4 +1,4 @@
-The project will consist on a monolith place on the middle of the designated space, and the interactions will occur in pairs of users. When a user approach the system will be prompted for the second one.
+The project will consist of a monolith placed in the middle of the designated space, and the interactions will occur between two users at a time. When a user approaches, the system will prompt for a second user.
 
 Two webcams and two screens connected to a Mac mini are inside powering the installation.
 

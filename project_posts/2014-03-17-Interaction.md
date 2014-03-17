@@ -1,4 +1,5 @@
 The imagined interaction scenario consists on 3 steps:
+
 -The user approach the monolith
 -A second user is prompted
 -Face swapping beggins.

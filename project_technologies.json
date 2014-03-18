@@ -1,10 +1,8 @@
 {
     "technologies": {
-        "languages": [
-            "c++"
-        ],
         "apis": [
-            "insert apis"
+            "C++"
+
         ],
         "platforms": [
             "OS X"

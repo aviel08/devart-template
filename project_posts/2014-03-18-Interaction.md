@@ -6,4 +6,4 @@ The imagined interaction scenario consists of 3 steps:
 
 It is important to emphasise that the face swapping effect must be gradual. Making a subtle transition will help both users to embrace their new face as their own, since it will pass unnoticed for a while, and reinforce the artistic concept.
 
-![Initial concept sketch](../project_images/concept_06.jpg?raw=true "Initial sketch")
+![Interaction](../project_images/interaction.jpg?raw=true "Interaction")

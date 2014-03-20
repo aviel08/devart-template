@@ -1,5 +1,5 @@
-The succession of both users interaction is decribed as "A" and "B."
+After compiling the FaceTracker I was able to test its capabilities and limitations. Despite the low frame-rate it was useful and interesting to see how it behaves with different subjects, lighting conditions and movements.
 
-
-Morphing mock up along timeline 
-![Face tracking](../project_images/concept_03.jpg?raw=true "Face tracking")
+![Face tracking](../project_images/concept_03a.jpg?raw=true "Face tracking")
+Fortunately  it seems to recognize faces with glasses B-) 
+![Face tracking](../project_images/concept_03b.jpg?raw=true "Face tracking")

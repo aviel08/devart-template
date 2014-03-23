@@ -1,4 +1,4 @@
-The way I envision the installation is on a dark mood, direct lighting from spotlights direct the attention to the middle of the space where the monolith is placed. The reason I think it should be dark is because it's a spiritual epiphany. It should be personal and meaningful. These are mock ups of the proposed space.  
+I envision the installation with a dark mood. Direct lighting from spotlights draw the attention to the middle of the space where the monolith is placed. I believe it should be a dark space because it should be introspective - a spiritual epiphany. It should be personal and meaningful. These are mock ups of the proposed space.  
 
 ![Barbican](../project_images/barbican_01.jpg?raw=true "Barbican")
 

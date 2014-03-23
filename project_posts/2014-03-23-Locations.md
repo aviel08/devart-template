@@ -1,5 +1,5 @@
-In 2009 I went to a Depeche Mode concert and I remember one visual in particular where the faces of an oldman and a young boy were on screen; to my surprise at the end of the song they swapped places! But how? I didn't even noticed it. The visual, designed by Anton Corbijn, was achieved by merely fading both stills and revealing the other face behind. Even if it was technically simple, because it wasn't real time and just stills, I found the effect of the smooth transition quite effective.
+The way I envision the installation is on a dark mood, direct lighting from spotlights direct the attention to the middle of the space where the monolith is placed. The reason I think it should be dark is because it's a spiritual epiphany. It should be personal and meaningful. These are mock ups of the proposed space.  
 
-![Face tracking](../project_images/anton_corbijn.jpg?raw=true "Face tracking")
+![Barbican](../project_images/barbican_01.jpg?raw=true "Barbican")
 
-So the intention for the exhibition is to create the same smooth transition  and therefore a successful face substitution. 
+![Barbican](../project_images/barbican_02.jpg?raw=true "Barbican")

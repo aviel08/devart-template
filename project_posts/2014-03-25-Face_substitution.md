@@ -1,5 +1,7 @@
-I envision the installation with a dark mood. Direct lighting from spotlights draw the attention to the middle of the space where the monolith is placed. I believe it should be a dark space because it should be introspective - a spiritual epiphany. It should be personal and meaningful. These are mock ups of the proposed space.  
+After running several tests with the face tracker the next logical step was to produce my first face substitution. These first experiments were done using static images but they where very useful to understand the application's workflow. The next step is to adjust the transition time and adding video as the main input. 
 
-![Barbican](../project_images/barbican_01.jpg?raw=true "Barbican")
+Trent Reznor 
+![Barbican](../project_images/face_substitution_01.jpg?raw=true "Barbican")
 
-![Barbican](../project_images/barbican_02.jpg?raw=true "Barbican")
+Jon Hamm
+![Barbican](../project_images/face_substitution_02.jpg?raw=true "Barbican")

@@ -9,7 +9,8 @@
         ],
         "toolkits": [
             "openframeworks", 
-            "opencv"
+            "opencv",
+            "chrome"
         ]
     },
     "themes": [

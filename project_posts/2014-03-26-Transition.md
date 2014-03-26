@@ -1,5 +1,6 @@
-I envision the installation with a dark mood. Direct lighting from spotlights draw the attention to the middle of the space where the monolith is placed. I believe it should be a dark space because it should be introspective - a spiritual epiphany. It should be personal and meaningful. These are mock ups of the proposed space.  
+The following is a test of the transition that will be used both in the installation and web version. I was exciting to finally be able to see my concept up and running. The video is slightly lengthy but I have been clear on previous posts of the importance that a smooth transition has for the project.
 
-![Barbican](../project_images/barbican_01.jpg?raw=true "Barbican")
+[![ScreenShot](project_images/video_screen_shot.jpg?raw=true)](https://vimeo.com/90115696)
 
-![Barbican](../project_images/barbican_02.jpg?raw=true "Barbican")
+Track "Daedalus" by Kieran-Ryan-Music
+soundcloud.com/kieranryanmusic

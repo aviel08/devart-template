@@ -4,5 +4,6 @@ The remaining steps are to build the monolith and to add an interface to the web
 
 ![Set up](../project_images/set_up.jpg?raw=true "Set up")
 
-The interaction on the website will be held between two online users that will be randomly connected. Their faces will be substituted using their webcams. If no second second user is found online, a pre recorded video from a locally hosted library will be used instead.
+The website will feature an interaction held between two online users connected at random. Their faces will be swapped via webcam. If no second user is found online, a pre-recorded video from a locally hosted library will be used instead.
+
 ![Website](../project_images/website.jpg?raw=true "Website")

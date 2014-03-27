@@ -32,3 +32,5 @@ FaceTracker  [Github]( https://github.com/kylemcdonald/FaceTracker "Github")
 ofxFaceTracker [Github]( https://github.com/kylemcdonald/ofxFaceTracker "Github")
 
 FaceSubstitution [Github]( https://github.com/arturoc/FaceSubstitution "Github")
+
+clmtrackr [Github]( https://github.com/auduno/clmtrackr "Github")
